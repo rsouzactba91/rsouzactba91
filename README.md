@@ -1,0 +1,6 @@
+- 👋 Olá, eu sou @rsouzactba91
+- 👀 Sou estudante e estou interessado em desenvolvimento de software e tecnologia.
+- 🌱 Atualmente, estou aprendendo sobre programação.
+- 💞️ Estou buscando colaborar em projetos de código aberto.
+- 📫 Você pode me contatar pelo email: seuemail@exemplo.com
+- ⚡ Curiosidade: Jogo video-game nas horas vagas( muito poucas)😢!!!
