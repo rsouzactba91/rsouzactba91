@@ -2,7 +2,8 @@
 - Sou estudante e estou interessado em desenvolvimento de software e tecnologia.
 -  Você pode me contatar pelo email: rsouzactba.91@hotmail.com
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsouzactba91&layout=compact" style="width: 100%;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsouzactba91&layout=compact" style="width: 100%; max-width: 600px;" />
+
 
 
 
