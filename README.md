@@ -22,7 +22,7 @@ Confira meus projetos.
 <!--![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)-->
 <!--![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)-->
 ![VB.NET](https://img.shields.io/badge/VB.NET-5C2D91?logo=visual-basic&logoColor=white)
-![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)
+![MAUI](https://img.shields.io/badge/MAUI-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)
 
 ---
 
