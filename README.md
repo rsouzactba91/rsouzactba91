@@ -24,6 +24,7 @@ Confira meus projetos.
 ![VB.NET](https://img.shields.io/badge/VB.NET-5C2D91?logo=visual-basic&logoColor=white)
 ![MAUI](https://img.shields.io/badge/MAUI-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)
 
+
 ---
 
 ## Contato
