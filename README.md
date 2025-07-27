@@ -1,7 +1,10 @@
 # Renato Souza
 
 Olá, meu nome é Renato.  
-Sou estudante e estou interessado em desenvolvimento de software e tecnologia.
+
+Sou estudante de análise e desenvolvimento de sistemas,morando atualmente em Curitiba.
+
+Confira meus projetos.
 
 ---
 
