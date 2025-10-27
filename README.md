@@ -4,7 +4,6 @@ Sou estudante de análise e desenvolvimento de sistemas, morando atualmente em C
 
 Confira meus projetos.
 
-Linguagens mais usadas
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=rsouzactba91&layout=compact)
 
