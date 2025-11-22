@@ -1,11 +1,8 @@
-Olá, meu nome é Renato.
+Olá, meu nome é Renato!
 
-Sou estudante de análise e desenvolvimento de sistemas, morando atualmente em Curitiba.
+Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente morando em Curitiba – PR.
+Meu foco é realizar uma transição de carreira para a área de tecnologia, e para isso venho estudando com dedicação, desenvolvendo projetos práticos e aprimorando continuamente minhas habilidades em desenvolvimento de software.
 
-Confira meus projetos.
+ Projetos & Estudos
 
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=rsouzactba91&layout=compact)
-
-Contato
-Email: rsouzactba.91@hotmail.com
+Aqui no meu GitHub você encontrará projetos que desenvolvi para praticar lógica, estruturação de aplicações, backend, frontend e automações.
