@@ -6,6 +6,7 @@ Meu foco é a prática constante: desenvolvo projetos para dominar a lógica de 
 
 Aqui no meu GitHub, você acompanha essa trajetória através de códigos e aplicações funcionais.
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=rsouzactba91&layout=compact)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=rsouzactba91&layout=compact&langs_count=8)
+
 
 
