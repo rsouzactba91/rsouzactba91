@@ -6,5 +6,6 @@ Meu foco é a prática constante: desenvolvo projetos para dominar a lógica de 
 
 Aqui no meu GitHub, você acompanha essa trajetória através de códigos e aplicações funcionais.
 
-https://img.shields.io/badge/:badgeContent
+![Static Badge](https://img.shields.io/badge/:badgeContent)
+
 
